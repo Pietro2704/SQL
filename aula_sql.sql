@@ -1,3 +1,4 @@
+
 -- Criando banco de dados com padrao utf8
 
 /*
